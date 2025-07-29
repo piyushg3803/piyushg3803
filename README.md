@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I am a Batman fan.
 
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushg3803&show_icons=true&theme=radical)
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushg3803&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg3803&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg3803&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushg3803&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushg3803&theme=dark)
 
 
