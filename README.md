@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**piyushg3803/piyushg3803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>Hi there 👋, I'm Piyush!</h1>
+<p>🧑‍💻 A Frontend Web Developer working here in Surat.</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushg3803&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushg3803&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushg3803&theme=radical)
+
+
